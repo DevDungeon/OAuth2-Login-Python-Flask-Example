@@ -1,5 +1,5 @@
 ============================================
-Discord OAuth social login wit Flask Example
+Discord OAuth social login with Flask Example
 ============================================
 
 Simple example demonstrating how to use 
